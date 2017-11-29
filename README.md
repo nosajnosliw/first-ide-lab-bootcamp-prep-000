@@ -1,4 +1,4 @@
-pwd# Your First IDE Lab
+pwdlear# Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
 
